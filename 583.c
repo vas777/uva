@@ -1,3 +1,4 @@
+// prime factors -190 = -1 x 2 x 5 x 19
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
